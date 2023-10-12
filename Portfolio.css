@@ -303,6 +303,10 @@ body {
     background: #111;
 }
 
+.col-rt-12 {
+    margin-left: 2.5px;
+}
+
 .horizontalScroll {
     width: 100vh;
     height: 100vw;
